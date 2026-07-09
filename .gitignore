@@ -1,0 +1,24 @@
+# Dependecies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Backend compilation output
+dist/
+
+# Environmental configs
+.env
+.env.local
+.env.development
+.env.production
+.env*.local
+
+# Logs
+*.log
+logs/
+
+# System files
+.DS_Store
+Thumbs.db

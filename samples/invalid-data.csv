@@ -1,0 +1,5 @@
+Name,Email,Phone,Source
+Invalid Lead 1,,,leads_on_demand
+Invalid Lead 2,N/A,None,meridian_tower
+Valid Lead,valid@email.com,,eden_park
+Another Invalid,,not-a-number,sarjapur_plots

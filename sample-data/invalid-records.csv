@@ -1,0 +1,5 @@
+Name,Email,Phone,Source
+Garbage Row 1,,,leads_on_demand
+Garbage Row 2,N/A,None,meridian_tower
+Valid Record,valid@example.com,,eden_park
+Garbage Row 3,,not-a-number,sarjapur_plots
